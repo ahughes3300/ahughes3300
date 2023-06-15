@@ -1,6 +1,6 @@
 ![logo portrait](https://github.com/ahughes3300/ahughes3300/assets/33879610/e0db4857-605e-496a-aa83-94d04e177eb8)
 
-Hello I am Alex. I am currently a grad student studying Data Science. I B.S. degree in Biology and another in Computer Science. I love learning and discovering new things and I love science. My favorite programming language is Python. 
+Hello I'm Alex, I am currently a grad student studying Data Science. I have B.S. degree in Biology and another in Computer Science. I love learning and discovering new things and I love science. My favorite programming language is Python. 
 
 | Programming Languages| Data Science      | Favorite SciFi | Favorite Games   | 
 | -------------        | -------------     | -------------  | -------------    |
