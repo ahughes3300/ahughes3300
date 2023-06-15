@@ -8,7 +8,7 @@ Hello I'm Alex, I am currently a grad student studying Data Science. I have B.S.
 | R                    | Machine Learning  | Star Trek      | The Witcher 3    |
 | Java                 | Data Wrangling    | WestWorld      | Mass Effect 2    |
 | C++                  | Data Story Telling| Alien          | Diablo 2         |
-| SQL                  | A.I.              | Terminator     | Castlevania SOTN |
+| SQL                  | A.I.              | Terminator     | CyberPunk 2077|
 
 
 
