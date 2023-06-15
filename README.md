@@ -1,4 +1,7 @@
+![logo portrait](https://github.com/ahughes3300/ahughes3300/assets/33879610/e0db4857-605e-496a-aa83-94d04e177eb8)
+
 Hello I am Alex. 
+
 
 
 
