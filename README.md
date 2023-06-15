@@ -2,7 +2,10 @@
 
 Hello I am Alex. 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
@@ -12,4 +15,5 @@ Hello I am Alex.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about Florida.
 - ⚡ Fun fact: I think Boston Terriers are the best dogs.
+
 
