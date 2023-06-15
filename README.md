@@ -2,10 +2,14 @@
 
 Hello I am Alex. 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Programming Languages| Data Science      | Favorite SciFi | Favorite Games   | 
+| -------------        | -------------     | -------------  | -------------    |
+| Python               | Data Visualization| Star Wars      | Super Mario Bros |
+| R                    | Machine Learning  | Star Trek      | The Witcher 3    |
+| Java                 | Data Wrangling    | WestWorld      | Mass Effect 2    |
+| C++                  | Data Story Telling| Alien          | Diablo 2         |
+| SQL                  | A.I.              | Terminator     | Castlevania SOTN |
+
 
 
 
