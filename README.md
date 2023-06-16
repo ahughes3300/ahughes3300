@@ -20,4 +20,4 @@ Hello I'm Alex, I am currently a grad student studying Data Science. I have B.S.
 - 💬 Ask me about Florida.
 - ⚡ Fun fact: I think Boston Terriers are the best dogs.
 
-
+*  [My LinkedIn](https://www.linkedin.com/in/alexander-hughes-cs/)
